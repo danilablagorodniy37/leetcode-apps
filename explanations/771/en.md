@@ -32,7 +32,7 @@ Letters are **case-sensitive**, so `"a"` is different from `"A"`.
 
 ### Strategy
 
-Think of `jewels` as a **“allowed list”** of special stone types, and `stones` as a **bag** of stones you own.
+Think of `jewels` as an **“allowed list”** of special stone types, and `stones` as a **bag** of stones you own.
 
 Your task is:
 **for every stone in your bag, check if its type is in the allowed list. If yes, count it.**
