@@ -71,7 +71,7 @@ We will follow the exact logic of your code:
 result = 0
 for s in stones:
     if s in jewels:
-        res += 1
+        result += 1
 return result
 ```
 
